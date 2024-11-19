@@ -1,5 +1,5 @@
 <h1>The Employee Management Portfolio</h1>
-<br><br>
+<br>
 <h3>Home Page</h3>
 
 ![image](https://github.com/user-attachments/assets/00ab7d6e-297b-439d-aa3b-e12cd9366f71)
